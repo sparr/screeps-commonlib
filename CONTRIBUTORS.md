@@ -7,3 +7,5 @@ Below are the names of the contributors or contribution sources for this reposit
 - [@semperrabbit](https://github.com/semperrabbit) - "no license pref. as long as someone attributes my name to it, im fine with whatever else."
 - @helam - "go for it" "i'd just like to see what you do with it"
 - [StackExchange Network](http://stackexchange.com) - Code licensed CC-BY-SA per https://stackexchange.com/legal
+- @dissi - PERMISSION SOUGHT
+- @proximo - PERMISSION SOUGHT
