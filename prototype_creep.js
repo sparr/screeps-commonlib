@@ -5,6 +5,7 @@
  *
  * original author @daboross
  * original source https://screeps.slack.com/files/U1UJH3RGB/F3ABHV6F5/freshly_minted_getactivebodyparts_accounting_for_boosts_.js
+ * This function is released under the MIT license
  *
  * @param  {String} type - type of body part
  * @param  {String} action - optional specific action to add boost effects for
@@ -35,6 +36,7 @@ Creep.prototype.getActiveBodyparts = function(type, action) {
  *
  * original author @daboross
  * original source https://screeps.slack.com/files/U1UJH3RGB/F3ABHV6F5/freshly_minted_getactivebodyparts_accounting_for_boosts_.js
+ * This function is released under the MIT license
  *
  * @param  {String} type - type of body part
  * @param  {String} action - optional specific action to add boost effects for
