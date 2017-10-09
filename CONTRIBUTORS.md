@@ -6,7 +6,7 @@ Below are the names of the contributors or contribution sources for this reposit
 - @enrico - "do whatever u want with it"
 - [@semperrabbit](https://github.com/semperrabbit) - "no license pref. as long as someone attributes my name to it, im fine with whatever else."
 - @helam - "go for it" "i'd just like to see what you do with it"
-- [StackExchange Network](http://stackexchange.com) - Code licensed CC-BY-SA per https://stackexchange.com/legal
+- [StackExchange Network](http://stackexchange.com) - Code licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) per https://stackexchange.com/legal
 - @dissi - "may I include your snippets in [this repo]?" "sure :D"
 - @proximo - PERMISSION SOUGHT
 - @doboross - "for mine, sure @sparr - not sure how useful they would be. everything I've posted is fine under MIT"
